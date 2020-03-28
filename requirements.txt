@@ -1,0 +1,7 @@
+pylivetrader
+pipeline_live
+zipline
+numpy
+math
+itertools
+logbook
