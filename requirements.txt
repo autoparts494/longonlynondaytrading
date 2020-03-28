@@ -1,7 +1,7 @@
 pylivetrader
 pipeline_live
 zipline
-https://github.com/numpy/numpy.git
+scipy
 math
 itertools
 logbook
