@@ -2,5 +2,4 @@ pylivetrader
 pipeline_live
 zipline
 scipy
-itertools
 logbook
